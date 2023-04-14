@@ -39,6 +39,8 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Preview
+<img width="676" alt="Text Editor Preview" src="https://user-images.githubusercontent.com/99048123/232108512-1f2605d2-99a2-4e3b-b0a8-4f106eef56bf.png">
+
 
 
 ## Link
