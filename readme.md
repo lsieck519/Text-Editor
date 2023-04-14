@@ -39,6 +39,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Preview
+<img width="1188" alt="JATE Preview" src="https://user-images.githubusercontent.com/99048123/232100285-6a7a84fe-1f06-4f85-b95d-d102bdf86b37.png">
 
 
 ## Link
