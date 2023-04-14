@@ -38,10 +38,14 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+## Preview
+
+
 ## Link
+Click [HERE](https://safe-basin-28779.herokuapp.com/) to use the text editor! 
 
 ## Questions
-
+[Contact me on GitHub](https://github.com/lsieck519)
 
 <!-- To-Do:
 database.js
