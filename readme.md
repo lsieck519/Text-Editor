@@ -47,9 +47,3 @@ Click [HERE](https://safe-basin-28779.herokuapp.com/) to use the text editor!
 
 ## Questions
 [Contact me on GitHub](https://github.com/lsieck519)
-
-<!-- To-Do:
-database.js
-install.js
-src-sw.js
---webpack.config.js -->
